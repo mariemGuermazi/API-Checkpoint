@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.userList{
+  
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+
+.userCard{
+  margin: 10px;
+}
